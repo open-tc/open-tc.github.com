@@ -1,3 +1,3 @@
 # open-tc.github.com
 
-http://open-tc.github.io./
+Please see http://open-tc.github.io./
